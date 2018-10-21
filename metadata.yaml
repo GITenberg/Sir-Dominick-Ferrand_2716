@@ -1,5 +1,5 @@
 _repo: Sir-Dominick-Ferrand_2716
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Boardinghouses -- Fiction'
 - !lcc 'PS'
 - !lcsh 'Authors -- Fiction'
+- GITenberg
 title: Sir Dominick Ferrand
 url: http://www.gutenberg.org/ebooks/2716
